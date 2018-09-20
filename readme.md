@@ -1,0 +1,1 @@
+This is the home of my undergraduate thesis in economics at Carleton College. The paper and poster are the main attraction here; the code is a bit messy because it requires some switching between R and Stata. (I like R more than Stata, but R has a pretty poor implementation of vector autoregression, while Stata has a stellar VAR setup.)
